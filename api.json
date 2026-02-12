@@ -1,0 +1,1153 @@
+{
+  "category": "GHOST_HAUNTING",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/poltergeist",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+
+  "phenomenon": {
+    "id": "poltergeist",
+    "name": "Poltergeist",
+    "aliases": [
+      {
+        "name": "Poltergeist",
+        "language": "German",
+        "meaning": "Noisy ghost or spirit - from 'poltern' (to make noise) and 'geist' (ghost/spirit)"
+      },
+      {
+        "name": "RSPK",
+        "language": "Scientific terminology",
+        "meaning": "Recurrent Spontaneous Psychokinesis"
+      },
+      {
+        "name": "Noisy Ghost",
+        "language": "English",
+        "meaning": "Direct translation of German term"
+      },
+      {
+        "name": "Knocker",
+        "language": "English folklore",
+        "meaning": "Spirit that produces knocking sounds"
+      }
+    ],
+    "category": "GHOST_HAUNTING",
+    "subcategory": "Physical Manifestation",
+    "tags": [
+      "poltergeist",
+      "haunting",
+      "paranormal",
+      "psychokinesis",
+      "rspk",
+      "physical-disturbance",
+      "object-movement",
+      "adolescent-focus",
+      "psychological"
+    ],
+    "status": "active",
+    "description": {
+      "summary": "A phenomenon characterized by physical disturbances including object movement, unexplained sounds, and occasional violence, often centered around a specific individual, typically an adolescent. Distinguished from traditional hauntings by its kinetic and interactive nature.",
+      "full": "Poltergeist phenomena represent one of the most dramatic forms of alleged paranormal activity, characterized by physical disturbances that include objects moving or being thrown, loud unexplained noises (knocks, raps, bangs), electrical disturbances, temperature fluctuations, and in rare cases physical attacks on witnesses. Unlike traditional hauntings attributed to spirits of the deceased, poltergeist activity typically centers around a specific living person—most commonly an adolescent experiencing emotional or psychological stress. The phenomenon often begins gradually, escalates over weeks or months, and then ceases abruptly. Cases have been documented since ancient times and continue to be reported globally. Explanations range from paranormal (disembodied spirits, demonic entities) to parapsychological (unconscious psychokinesis by the focal person) to skeptical (fraud, misinterpretation, natural causes). The term comes from German 'poltern' (to make noise) and 'geist' (ghost/spirit)."
+    },
+    "etymology": {
+      "origin": "German compound word first appearing in folklore in the 16th century",
+      "meaning": "Noisy ghost or spirit - 'poltern' (to make noise, rumble, crash) + 'geist' (ghost, spirit)",
+      "first_use": "Early modern German folklore; entered English in 19th century"
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "GHOST_HAUNTING",
+      "type": "Physical Manifestation / RSPK",
+      "subtype": "Interactive Phenomenon",
+      "variant": "Agent-focused Activity"
+    },
+    "related_phenomena": [
+      {
+        "id": "ghosts",
+        "name": "Ghosts & Hauntings",
+        "relationship": "parent_category",
+        "description": "Poltergeists traditionally classified as a type of haunting"
+      },
+      {
+        "id": "psychic-phenomena",
+        "name": "Psychic Phenomena",
+        "relationship": "related",
+        "description": "RSPK theory links poltergeists to unconscious psychokinesis"
+      },
+      {
+        "id": "demons",
+        "name": "Demons",
+        "relationship": "alternative_explanation",
+        "description": "Some cases interpreted as demonic activity"
+      }
+    ]
+  },
+
+  "characteristics": {
+    "physical_manifestations": [
+      {
+        "type": "Object movement",
+        "description": "Items moving, levitating, or being thrown without apparent physical cause",
+        "frequency": "very common",
+        "severity": "variable",
+        "examples": ["Furniture sliding", "Objects flying across rooms", "Items appearing in unusual locations"]
+      },
+      {
+        "type": "Unexplained sounds",
+        "description": "Knocking, rapping, banging, footsteps, or other noises without identifiable source",
+        "frequency": "very common",
+        "severity": "low to moderate",
+        "examples": ["Rhythmic knocking", "Loud bangs", "Footsteps", "Scratching sounds"]
+      },
+      {
+        "type": "Electrical disturbances",
+        "description": "Lights flickering, appliances turning on/off, electronics malfunctioning",
+        "frequency": "common",
+        "severity": "low to moderate",
+        "examples": ["Light switches toggling", "Phone calls with no one there", "Electronic devices activating"]
+      },
+      {
+        "type": "Temperature anomalies",
+        "description": "Sudden cold or hot spots, unexplained temperature fluctuations",
+        "frequency": "common",
+        "severity": "low",
+        "examples": ["Cold spots", "Room temperature drops"]
+      },
+      {
+        "type": "Spontaneous fires",
+        "description": "Small fires or scorch marks appearing without ignition source",
+        "frequency": "rare",
+        "severity": "high",
+        "examples": ["Curtains igniting", "Paper spontaneously burning"]
+      },
+      {
+        "type": "Physical attacks",
+        "description": "Pushing, scratching, biting, or other physical harm to witnesses",
+        "frequency": "rare",
+        "severity": "moderate to high",
+        "examples": ["Scratches appearing on skin", "Being pushed or struck", "Hair pulling"]
+      },
+      {
+        "type": "Water phenomena",
+        "description": "Unexplained water appearance, puddles forming, dripping sounds",
+        "frequency": "occasional",
+        "severity": "low",
+        "examples": ["Puddles with no source", "Walls seeming to weep"]
+      },
+      {
+        "type": "Stone throwing",
+        "description": "Rocks or stones being thrown, often appearing to come from nowhere",
+        "frequency": "occasional",
+        "severity": "moderate",
+        "examples": ["Stones pelting house exterior", "Rocks appearing inside closed rooms"]
+      }
+    ],
+    "behavioral_patterns": {
+      "onset": "Usually gradual, beginning with minor disturbances",
+      "progression": "Typically escalates over days, weeks, or months",
+      "duration": "Usually 2-6 months; can last days to years in extreme cases",
+      "termination": "Often ends abruptly without explanation",
+      "activity_period": "Can occur any time; some cases show nocturnal preference",
+      "focus": "Centers on specific person (agent/focus) in 90% of cases",
+      "intelligence": "Sometimes appears to respond to requests or show purposeful behavior; other times seems random",
+      "communication": "Some cases involve rapping answers to questions, moving objects to spell words, or voice phenomena"
+    },
+    "agent_characteristics": {
+      "description": "The focal person around whom poltergeist activity centers",
+      "common_traits": [
+        "Adolescent (ages 11-18 most common)",
+        "Female more often than male (though both occur)",
+        "Experiencing psychological or emotional stress",
+        "Undergoing puberty or hormonal changes",
+        "Family conflict or tension in home environment",
+        "Repressed emotions or inability to express feelings",
+        "History of trauma or abuse (in some cases)",
+        "Often unaware of being the focus initially"
+      ],
+      "age_distribution": "Peak incidence ages 12-15; can occur at any age but rare in adults without adolescents present",
+      "awareness": "Agent typically unaware they are causing phenomena; unconscious if RSPK theory correct"
+    }
+  },
+
+  "distribution": {
+    "range": {
+      "description": "Universal phenomenon reported across all cultures and time periods, though concentrated in areas with strong paranormal belief systems and active investigation communities.",
+      "continents": ["North America", "Europe", "Asia", "South America", "Africa", "Australia"],
+      "countries": ["All countries; particularly well-documented in UK, USA, Germany, Japan, Brazil"],
+      "regions": ["Global distribution with no geographic pattern"]
+    },
+    "temporal": {
+      "first_recorded": {
+        "date": "Ancient times",
+        "circa": true,
+        "source": "Roman and Chinese historical accounts describe poltergeist-like phenomena"
+      },
+      "historical_mentions": [
+        "856 CE - Bingen, Germany poltergeist documented",
+        "1661-1663 - Tedworth Drummer case, England",
+        "1716-1717 - Epworth Rectory case, England (Wesley family)"
+      ],
+      "peak_activity_periods": [
+        {
+          "period": "Victorian Era (1837-1901)",
+          "description": "Height of spiritualism; many cases documented and investigated"
+        },
+        {
+          "period": "Mid-20th Century (1950s-1980s)",
+          "description": "Systematic parapsychological investigation; RSPK theory developed"
+        },
+        {
+          "period": "Modern Era (1990s-present)",
+          "description": "Cases continue to be reported; increased skeptical scrutiny and hoax exposure"
+        }
+      ]
+    }
+  },
+
+  "history": {
+    "origins": {
+      "cultural_roots": "Poltergeist-like phenomena appear in folklore and historical records worldwide. Ancient Chinese, Roman, and medieval European sources describe disturbances matching modern poltergeist descriptions. The German term entered English vocabulary in 19th century.",
+      "earliest_accounts": "Ancient Rome: Pliny the Younger and others described household disturbances. Medieval records document numerous cases attributed to demons or spirits. First systematic documentation in early modern period.",
+      "folklore_connections": "Connected to mischievous spirits, household demons (like brownies, boggarts), and malevolent entities across cultures. Japanese 'tsukumogami', Chinese 'gui', and European fairy traditions share characteristics."
+    },
+    "timeline": [
+      {
+        "date": "856",
+        "event": "Bingen Poltergeist",
+        "significance": "One of earliest documented cases in Western Europe; stone throwing and unexplained noises in German farmhouse",
+        "source": "Annales Fuldenses"
+      },
+      {
+        "date": "1661-1663",
+        "event": "Tedworth Drummer",
+        "significance": "Famous English case investigated by Joseph Glanvill; knockings, drumming sounds, object movement",
+        "source": "Glanvill's 'Saducismus Triumphatus' (1681)"
+      },
+      {
+        "date": "1716-1717",
+        "event": "Epworth Rectory",
+        "significance": "Poltergeist activity in home of John Wesley (founder of Methodism); well-documented by family members",
+        "source": "Wesley family letters and journals"
+      },
+      {
+        "date": "1817-1821",
+        "event": "Bell Witch",
+        "significance": "Famous Tennessee case involving Bell family; physical attacks, voices, death attributed to entity",
+        "source": "Contemporary accounts and later documentation"
+      },
+      {
+        "date": "1848",
+        "event": "Fox Sisters",
+        "significance": "Rappings in New York home launched Spiritualist movement; later admitted as fraud",
+        "source": "Contemporary press; 1888 confession"
+      },
+      {
+        "date": "1967",
+        "event": "Rosenheim Poltergeist",
+        "significance": "German case in law office; electrical disturbances, moving objects; extensively investigated by physicists and parapsychologists; focused on 19-year-old secretary Annemarie Schneider",
+        "source": "Hans Bender investigation; published research"
+      },
+      {
+        "date": "1977-1979",
+        "event": "Enfield Poltergeist",
+        "significance": "Most famous and extensively documented modern case; centered on two sisters (ages 11 and 13) in North London; investigated by SPR; included furniture movement, levitations, voice phenomena, witnessed by police and journalists",
+        "source": "SPR investigation files; Playfair's 'This House Is Haunted' (1980)"
+      },
+      {
+        "date": "1975-1976",
+        "event": "Amityville Horror",
+        "significance": "Highly publicized case later largely discredited; became cultural phenomenon despite evidence of hoax",
+        "source": "Lutz family claims; multiple investigations and exposés"
+      },
+      {
+        "date": "1984",
+        "event": "Columbus Ohio Poltergeist",
+        "significance": "Tina Resch case; investigated by William Roll; extensive media coverage; some phenomena captured on video; later controversy",
+        "source": "Roll's investigation; news footage"
+      }
+    ],
+    "modern_era": "Poltergeist reports continue worldwide, though increased surveillance technology and skeptical scrutiny have led to exposure of many frauds. Parapsychologists continue to investigate cases using RSPK framework. Skeptics attribute phenomena to normal causes, fraud, or psychological factors. Cases remain controversial with no scientific consensus."
+  },
+
+  "notable_cases": [
+    {
+      "id": "poltergeist-enfield",
+      "name": "Enfield Poltergeist",
+      "date": {
+        "start": "1977-08",
+        "end": "1979-01",
+        "precision": "month range"
+      },
+      "location": {
+        "description": "284 Green Street, Enfield, North London",
+        "country": "United Kingdom",
+        "region": "England",
+        "locality": "Enfield",
+        "coordinates": {
+          "latitude": 51.6498,
+          "longitude": -0.0515,
+          "precision": "approximate"
+        }
+      },
+      "witnesses": {
+        "count": 30,
+        "primary_witnesses": ["Janet Hodgson (11)", "Margaret Hodgson (13)", "Peggy Hodgson (mother)", "Billy Hodgson", "Johnny Hodgson"],
+        "investigators": ["Maurice Grosse (SPR)", "Guy Lyon Playfair (SPR)"],
+        "independent_witnesses": ["Police officers", "Journalists", "Neighbors", "Photographers"],
+        "credibility_factors": ["Multiple independent witnesses", "Police testimony", "Extended duration", "Professional investigation"]
+      },
+      "description": "The Enfield Poltergeist is one of the most famous and extensively documented poltergeist cases in history. Activity centered on the Hodgson family, particularly daughters Janet (11) and Margaret (13), in their council house in Enfield, North London. Phenomena included furniture moving on its own, objects being thrown, knockings and rappings, apparitions, physical assaults, fires starting, water puddles appearing, cold breezes, disembodied voices (including the gruff voice of 'Bill' speaking through Janet), and alleged levitations. Police constable Carolyn Heeps witnessed a chair sliding across the floor. Maurice Grosse and Guy Lyon Playfair of the Society for Psychical Research investigated for 18 months, documenting over 1,500 incidents. The case garnered extensive media coverage. While some incidents were admitted as pranks by Janet and Margaret (particularly levitation photographs), investigators believed the majority of phenomena were genuine. The case remains highly controversial.",
+      "phenomena": [
+        "Furniture movement (beds, chairs, dressers sliding)",
+        "Objects thrown (marbles, toys, books)",
+        "Knockings and rappings",
+        "Disembodied voice speaking through Janet",
+        "Levitations (some admitted as hoaxed, others disputed)",
+        "Physical attacks (hair pulling, pushing)",
+        "Fires starting spontaneously",
+        "Water appearing from nowhere",
+        "Cold spots and breezes",
+        "Apparitions",
+        "Curtains moving without wind"
+      ],
+      "duration": "Approximately 18 months",
+      "agent": {
+        "name": "Janet Hodgson",
+        "age": 11,
+        "characteristics": "Adolescent girl; parents recently separated; under stress; some evidence of attention-seeking behavior but also genuine distress"
+      },
+      "evidence": [
+        "Police testimony (PC Carolyn Heeps witnessed chair movement)",
+        "Audio recordings (voice phenomena, knockings)",
+        "Photographs (some disputed)",
+        "Video footage (limited)",
+        "Investigator documentation (1,500+ incidents logged)",
+        "Multiple independent witness testimony",
+        "Journalist accounts (Daily Mirror coverage)"
+      ],
+      "investigation": {
+        "investigators": ["Maurice Grosse", "Guy Lyon Playfair"],
+        "organization": "Society for Psychical Research",
+        "methods": ["Continuous observation", "Audio recording", "Photography", "Witness interviews"],
+        "duration": "18 months",
+        "conclusion": "Investigators concluded genuine paranormal activity occurred alongside some deliberate trickery by children"
+      },
+      "skeptical_analysis": {
+        "hoax_evidence": ["Janet and Margaret admitted faking some levitations", "Caught bending spoons and other tricks", "Ventriloquism suspected for voice phenomena"],
+        "alternative_explanations": ["Attention-seeking behavior", "Family stress (recent separation)", "Normal house settling misinterpreted", "Sensationalized media coverage"],
+        "investigator_response": "Grosse and Playfair acknowledged pranks but maintained many incidents could not be explained by trickery given observation conditions"
+      },
+      "credibility": {
+        "rating": "medium-high",
+        "factors": [
+          "Multiple credible witnesses including police",
+          "Extended duration with consistent phenomena",
+          "Professional investigation and documentation",
+          "Some phenomena admitted as hoaxes reduces credibility",
+          "No definitive proof either way"
+        ],
+        "notes": "One of most documented cases; remains controversial due to mixed genuine/hoaxed phenomena"
+      },
+      "cultural_impact": "Inspired books, documentaries, and films including 'The Conjuring 2' (2016); remains most famous poltergeist case",
+      "sources": [
+        "Playfair, G.L. (1980). This House Is Haunted",
+        "SPR investigation files",
+        "Contemporary media coverage",
+        "Grosse audio tapes (available online)"
+      ],
+      "featured": true
+    },
+    {
+      "id": "poltergeist-rosenheim",
+      "name": "Rosenheim Poltergeist",
+      "date": {
+        "start": "1967-11",
+        "end": "1968-01",
+        "precision": "month range"
+      },
+      "location": {
+        "description": "Law office of Sigmund Adam, Rosenheim, Bavaria",
+        "country": "Germany",
+        "region": "Bavaria",
+        "locality": "Rosenheim"
+      },
+      "witnesses": {
+        "count": 40,
+        "primary_witnesses": ["Annemarie Schneider (19, secretary)", "Office staff", "Sigmund Adam (lawyer)"],
+        "investigators": ["Hans Bender (parapsychologist)", "Friedbert Karger (physicist)", "Electrical engineers"],
+        "credibility_factors": ["Scientific investigation", "Multiple professionals", "Documented electrical anomalies"]
+      },
+      "description": "The Rosenheim Poltergeist case is notable for its extensive scientific investigation and focus on electrical phenomena. Activity occurred in a law office in Bavaria, centered on 19-year-old secretary Annemarie Schneider. Phenomena included telephones ringing without calls, massive unexplained phone bills (to speaking clock), light bulbs exploding or unscrewing, electrical meters spinning wildly, fluorescent lights swinging, power surges, and developing fluid in photocopiers being displaced. Physics professor Friedbert Karger and parapsychologist Hans Bender conducted extensive investigation, installing monitoring equipment. Phenomena only occurred during office hours when Annemarie was present and ceased when she left employment. Electrical engineers from utility company found no normal explanation. Annemarie was reportedly unhappy in her job and experiencing psychological stress. The case is considered one of the best-documented poltergeist cases with scientific investigation.",
+      "phenomena": [
+        "Phone calls to speaking clock (600+ times)",
+        "Light bulbs exploding and unscrewing",
+        "Fluorescent tubes swinging",
+        "Electrical meters spinning without power draw",
+        "Photocopier fluid displacement",
+        "Pictures rotating on walls",
+        "Drawers opening spontaneously",
+        "Power surges and electrical failures"
+      ],
+      "duration": "Approximately 2-3 months",
+      "agent": {
+        "name": "Annemarie Schneider",
+        "age": 19,
+        "characteristics": "Young secretary; unhappy with job; emotionally stressed; phenomena ceased when she left employment"
+      },
+      "evidence": [
+        "Electrical monitoring data",
+        "Phone company records (documented 600+ calls)",
+        "Video recordings of swinging lights",
+        "Power company investigation reports",
+        "Photographs of rotating pictures",
+        "Scientific measurements and analysis"
+      ],
+      "investigation": {
+        "investigators": ["Hans Bender", "Friedbert Karger", "G. Zicha (physicist)", "Electrical utility engineers"],
+        "organization": "Institute for Border Areas of Psychology (Freiburg)",
+        "methods": ["Electrical monitoring", "Video recording", "Environmental measurement", "Power analysis"],
+        "conclusion": "No conventional explanation found; attributed to RSPK centered on Annemarie"
+      },
+      "credibility": {
+        "rating": "high",
+        "factors": [
+          "Extensive scientific investigation",
+          "Documented electrical anomalies",
+          "Multiple professional witnesses",
+          "Clear correlation with agent's presence",
+          "No evidence of fraud discovered"
+        ],
+        "notes": "Considered one of best-documented cases due to scientific rigor of investigation"
+      },
+      "sources": [
+        "Bender, H. (1969). 'Modern Poltergeist Research' in Proceedings of the Parapsychological Association",
+        "Karger, F. & Zicha, G. (1968). Physical Investigation of Psychokinetic Phenomena in Rosenheim"
+      ],
+      "featured": true
+    },
+    {
+      "id": "poltergeist-bell-witch",
+      "name": "Bell Witch",
+      "date": {
+        "start": "1817",
+        "end": "1821",
+        "precision": "year range"
+      },
+      "location": {
+        "description": "John Bell farm, Red River community, Robertson County",
+        "country": "United States",
+        "region": "Tennessee",
+        "locality": "Adams, Tennessee"
+      },
+      "witnesses": {
+        "count": 100,
+        "primary_witnesses": ["John Bell", "Lucy Bell", "Betsy Bell", "Bell family members"],
+        "independent_witnesses": ["Neighbors", "Andrew Jackson (allegedly)", "Community members"],
+        "credibility_factors": ["Multiple witnesses", "Extended duration", "Contemporary accounts"]
+      },
+      "description": "The Bell Witch is one of America's most famous poltergeist cases, occurring on the farm of John Bell in Tennessee. The entity called itself 'Kate' and communicated through disembodied voices. Phenomena included object movement, physical attacks (particularly against John Bell and daughter Betsy), apparitions, voices conversing with witnesses, prophecies, and singing. The entity claimed to be the spirit of Kate Batts, a neighbor. Activity escalated over four years, with the entity demonstrating knowledge of events happening elsewhere and speaking in multiple voices simultaneously. John Bell's death in 1820 was attributed to poison allegedly administered by the entity. The witch claimed responsibility and promised to return in 107 years. The case gained regional fame and was investigated by numerous witnesses. While impossible to verify details from accounts written decades later, the case became American folklore and inspired numerous books and films.",
+      "phenomena": [
+        "Disembodied voices (multiple, simultaneous)",
+        "Physical attacks (slapping, hair pulling, needle sticks)",
+        "Object movement",
+        "Bedclothes pulled off",
+        "Choking sensations",
+        "Unexplained sounds",
+        "Prophecies and knowledge of distant events",
+        "Singing and laughing",
+        "Death of John Bell (allegedly poisoned by entity)"
+      ],
+      "duration": "4 years (1817-1821)",
+      "agent": {
+        "name": "Betsy Bell",
+        "age": "12-16 during activity",
+        "characteristics": "Adolescent daughter of John Bell; primary target of some phenomena; activity decreased after her engagement was broken"
+      },
+      "evidence": [
+        "Contemporary accounts (though many written later)",
+        "Multiple witness testimony",
+        "Written records by family members",
+        "Community knowledge and folklore"
+      ],
+      "credibility": {
+        "rating": "low-medium",
+        "factors": [
+          "Most accounts written decades after events",
+          "Impossible to verify many claims",
+          "Folkloric embellishment likely",
+          "Multiple witnesses did report phenomena",
+          "Some contemporary documentation exists"
+        ],
+        "notes": "Historical distance makes verification impossible; became legendary but core events may have occurred"
+      },
+      "cultural_impact": "Most famous American poltergeist case; inspired numerous books, films, and tourist industry in Tennessee",
+      "sources": [
+        "Ingram, M.V. (1894). An Authenticated History of the Bell Witch",
+        "Bell, Charles (1985). The Bell Witch: A Mysterious Spirit"
+      ],
+      "featured": true
+    },
+    {
+      "id": "poltergeist-amityville",
+      "name": "Amityville Horror",
+      "date": {
+        "start": "1975-12",
+        "end": "1976-01",
+        "precision": "month range"
+      },
+      "location": {
+        "description": "112 Ocean Avenue, Amityville",
+        "country": "United States",
+        "region": "New York",
+        "locality": "Long Island"
+      },
+      "witnesses": {
+        "count": 4,
+        "primary_witnesses": ["George Lutz", "Kathy Lutz", "Children"],
+        "investigators": ["Ed and Lorraine Warren", "Various paranormal investigators"],
+        "credibility_factors": ["Limited - family only witnesses to most events"]
+      },
+      "description": "The Amityville Horror case became one of the most famous and controversial alleged hauntings in American history, though it is widely considered a hoax. The Lutz family claimed to experience terrifying paranormal activity during 28 days in their new home—the site of the DeFeo family murders a year earlier. Claimed phenomena included slime oozing from walls and ceilings, swarms of flies in winter, cold spots, foul odors, moving furniture, slamming doors, demonic apparitions (particularly a pig-like creature with red eyes), personality changes in George Lutz, and a room that remained unnaturally cold. The Warrens investigated and supported the claims. However, subsequent investigation revealed extensive evidence of fabrication: lawyer William Weber (representing Ronald DeFeo, the murderer) admitted helping the Lutzes concoct the story over wine; neighbors reported no disturbances; the Lutzes' own priest disputed their account; polygraph tests were failed or avoided; and the story changed in multiple retellings. Despite being discredited, the case became a cultural phenomenon spawning books, films, and sequels.",
+      "phenomena": [
+        "Green slime oozing from walls (claimed)",
+        "Swarms of flies (claimed)",
+        "Demonic apparitions (claimed)",
+        "Moving furniture (claimed)",
+        "Cold spots (claimed)",
+        "Personality changes (claimed)",
+        "Levitation (claimed)",
+        "Hoofprints in snow (claimed)"
+      ],
+      "duration": "28 days (claimed)",
+      "evidence": [
+        "Lutz family testimony (inconsistent)",
+        "Photos (disputed/later shown as misrepresented)",
+        "No independent verification",
+        "Evidence of fraud (Weber confession, contradictions)"
+      ],
+      "investigation": {
+        "investigators": ["Ed and Lorraine Warren", "Stephen Kaplan (skeptical investigator)"],
+        "conclusion": "Widely regarded as hoax for financial gain; multiple investigators concluded fraud"
+      },
+      "credibility": {
+        "rating": "very low",
+        "factors": [
+          "Lawyer admitted helping fabricate story",
+          "Inconsistent accounts",
+          "Failed/avoided polygraphs",
+          "Neighbors reported nothing unusual",
+          "Financial motive (book/film deals)",
+          "No physical evidence",
+          "Subsequent owners reported no phenomena"
+        ],
+        "notes": "Considered one of most famous paranormal hoaxes; included despite fraud as cautionary example and cultural phenomenon"
+      },
+      "cultural_impact": "Massive: bestselling book (1977), blockbuster film (1979), numerous sequels, became archetypal haunted house story despite being fraud",
+      "sources": [
+        "Anson, J. (1977). The Amityville Horror (disputed)",
+        "Kaplan, S. (1995). The Amityville Horror Conspiracy",
+        "Weber, W. confession (1979)"
+      ],
+      "featured": true,
+      "warning": "This case is widely discredited as a hoax. Included for historical and cultural significance."
+    },
+    {
+      "id": "poltergeist-borley-rectory",
+      "name": "Borley Rectory",
+      "date": {
+        "start": "1863",
+        "end": "1944",
+        "precision": "year range"
+      },
+      "location": {
+        "description": "Borley Rectory, Borley, Essex",
+        "country": "United Kingdom",
+        "region": "England",
+        "locality": "Essex"
+      },
+      "witnesses": {
+        "count": 100,
+        "primary_witnesses": ["Multiple rectory residents over decades", "Harry Price (investigator)"],
+        "credibility_factors": ["Long history", "Multiple independent witnesses", "Investigation documentation"]
+      },
+      "description": "Borley Rectory was dubbed 'the most haunted house in England' by paranormal investigator Harry Price. Built in 1863, the rectory experienced decades of reported phenomena including phantom nun sightings, unexplained footsteps, bells ringing, wall writing, object movement, phantom coach, and poltergeist activity. Multiple residents reported phenomena. Harry Price conducted extensive investigation from 1929-1938, claiming to document paranormal activity. The rectory burned down in 1939 under mysterious circumstances. However, subsequent analysis by SPR investigators revealed Price had likely exaggerated, misrepresented, and possibly fabricated evidence. Some witnesses recanted testimony, and much of Price's evidence was questioned. While some genuinely unexplained incidents may have occurred, the case is now viewed as heavily contaminated by fraud and embellishment.",
+      "phenomena": [
+        "Phantom nun apparition",
+        "Unexplained footsteps and raps",
+        "Bell ringing without cause",
+        "Wall writing appearing",
+        "Object movement",
+        "Phantom coach sighting",
+        "Spontaneous fires",
+        "Cold spots"
+      ],
+      "duration": "Approximately 81 years (1863-1944)",
+      "evidence": [
+        "Price's documentation (later disputed)",
+        "Photographs (some questioned)",
+        "Witness testimony (some recanted)",
+        "Wall writing samples"
+      ],
+      "investigation": {
+        "investigators": ["Harry Price", "SPR investigators (later investigation)"],
+        "methods": ["Extended observation", "Photography", "Witness interviews"],
+        "conclusion": "Price's claims largely discredited by SPR; significant fraud suspected; some genuine phenomena possible but unverifiable"
+      },
+      "credibility": {
+        "rating": "low",
+        "factors": [
+          "Price's methods and honesty questioned",
+          "Witnesses recanted",
+          "Evidence fabrication suspected",
+          "SPR investigation contradicted Price's claims",
+          "Some core incidents may be genuine but unknowable"
+        ],
+        "notes": "Famous case significantly undermined by fraud revelations; cautionary tale about investigator bias"
+      },
+      "sources": [
+        "Price, H. (1940). The Most Haunted House in England (disputed)",
+        "Dingwall, E.J., et al. (1956). The Haunting of Borley Rectory (SPR critical report)"
+      ],
+      "featured": false
+    }
+  ],
+
+  "theories": {
+    "paranormal": [
+      {
+        "name": "Disembodied Spirit Theory",
+        "description": "Poltergeist activity is caused by the spirit of a deceased person, often one who died traumatically or has unfinished business. The spirit manipulates physical objects to communicate or express anger.",
+        "proponents": ["Traditional paranormal investigators", "Spiritualists", "Many religious traditions"],
+        "evidence_cited": [
+          "Cases where entity identifies itself",
+          "Communicative phenomena (rapping answers to questions)",
+          "Location-specific activity (e.g., site of death)"
+        ],
+        "criticisms": [
+          "Doesn't explain agent-focused pattern",
+          "No scientific evidence for survival after death",
+          "Many cases have no identified deceased person"
+        ]
+      },
+      {
+        "name": "Demonic/Inhuman Entity Theory",
+        "description": "Activity is caused by non-human malevolent entities (demons, negative spirits) that may target vulnerable individuals, particularly adolescents.",
+        "proponents": ["Demonologists", "Religious investigators like Ed and Lorraine Warren", "Some religious traditions"],
+        "evidence_cited": [
+          "Malevolent or violent phenomena",
+          "Cases with religious significance (attacks on religious items)",
+          "Entity identifies itself as demonic",
+          "Phenomena ceases after religious intervention"
+        ],
+        "criticisms": [
+          "Based on religious belief rather than evidence",
+          "Same phenomena occur across cultures with different belief systems",
+          "Psychological explanations more parsimonious",
+          "Religious intervention success may be placebo effect"
+        ]
+      },
+      {
+        "name": "Elemental/Nature Spirit Theory",
+        "description": "Some poltergeist activity attributed to elemental spirits or nature entities disturbed by human activity or construction.",
+        "proponents": ["Some occult traditions", "Folkloric interpretations"],
+        "evidence_cited": [
+          "Cases involving new construction or land disturbance",
+          "Stone-throwing phenomena",
+          "Outdoor phenomena"
+        ],
+        "criticisms": [
+          "No evidence for such entities",
+          "Culturally specific interpretation",
+          "Doesn't explain agent-focused pattern"
+        ]
+      }
+    ],
+    "parapsychological": [
+      {
+        "name": "RSPK - Recurrent Spontaneous Psychokinesis",
+        "description": "The leading parapsychological theory, developed by William G. Roll. Poltergeist phenomena are unconscious psychokinetic (PK) effects produced by a living agent (focus person), typically an adolescent under psychological or emotional stress. The agent unknowingly causes physical effects through mental processes during periods of emotional turmoil, repressed anger, or stress. Activity is a manifestation of internal psychological conflict.",
+        "proponents": ["William G. Roll", "Parapsychological Association researchers", "Michael Persinger (neurological variation)"],
+        "evidence_cited": [
+          "Strong correlation with adolescent focal person (90% of cases)",
+          "Correlation with psychological stress, family conflict",
+          "Activity follows agent from location to location",
+          "Ceases when agent's stress resolves or agent matures",
+          "Puberty/hormonal changes correlation",
+          "Phenomena occur in agent's presence or proximity",
+          "Repressed emotions common in agents"
+        ],
+        "supporting_research": [
+          "Roll's investigation of 116 cases found agent in 92%",
+          "Strong correlation with age 12-15",
+          "Psychological testing of agents shows higher stress",
+          "EEG anomalies in some agents (Persinger)"
+        ],
+        "mechanisms_proposed": [
+          "Unconscious psychokinesis during stress",
+          "Temporal lobe activity (Persinger)",
+          "Conversion of psychological stress to physical energy",
+          "Dissociation allowing PK expression"
+        ],
+        "criticisms": [
+          "Psychokinesis not scientifically established",
+          "Mechanism unexplained",
+          "Some phenomena occur outside agent's presence",
+          "Doesn't explain intelligent communication in some cases",
+          "No repeatable laboratory demonstration"
+        ],
+        "strengths": [
+          "Explains agent-focused pattern",
+          "Accounts for adolescent correlation",
+          "Explains cessation when stress resolves",
+          "Fits psychological profiles of agents"
+        ]
+      }
+    ],
+    "psychological": [
+      {
+        "name": "Pubescent Stress Manifestation",
+        "description": "Poltergeist phenomena are entirely psychological—a combination of unconscious fraud, attention-seeking behavior, and family dynamics involving stressed adolescents. The adolescent (often unknowingly) creates phenomena through natural means (trickery) to express distress, gain attention, or exert control in troubled family situations.",
+        "proponents": ["Many psychologists", "Family therapists", "Skeptical researchers"],
+        "evidence_cited": [
+          "High correlation with troubled adolescents",
+          "Family dysfunction in most cases",
+          "Many cases involve proven trickery",
+          "Phenomena stop when agent is continuously observed",
+          "Attention-seeking behavior patterns",
+          "Phenomena fit psychological profile of stress expression"
+        ],
+        "psychological_factors": [
+          "Puberty and hormonal changes",
+          "Family conflict and dysfunction",
+          "Divorce or parental separation",
+          "Abuse or trauma history",
+          "Inability to express emotions verbally",
+          "Need for attention or control",
+          "Repressed anger seeking outlet"
+        ],
+        "criticisms": [
+          "Doesn't explain all witnessed phenomena",
+          "Some events occur with continuous observation",
+          "Multiple independent witnesses in some cases",
+          "Some phenomena beyond apparent ability of agent to fake"
+        ]
+      },
+      {
+        "name": "Mass Hysteria/Suggestion",
+        "description": "Group suggestibility and mass psychogenic illness cause witnesses to misinterpret normal events or experience shared delusions. Expectation creates perception of paranormal activity where none exists.",
+        "proponents": ["Social psychologists", "Skeptics"],
+        "evidence_cited": [
+          "Contagion of belief in affected households",
+          "Phenomena increase with attention/investigation",
+          "Witnesses' accounts become more dramatic over time",
+          "Cultural context influences interpretation"
+        ],
+        "criticisms": [
+          "Doesn't explain physical evidence (objects moved, damage)",
+          "Some cases have single initial witness",
+          "Independent witnesses from outside household"
+        ]
+      }
+    ],
+    "skeptical": [
+      {
+        "name": "Fraud and Hoax",
+        "description": "Most or all poltergeist cases are deliberate hoaxes perpetrated for attention, fame, or financial gain. The agent (often a child or adolescent) deliberately creates phenomena through tricks, sometimes with adult complicity.",
+        "proponents": ["James Randi", "Joe Nickell", "Skeptical investigators"],
+        "evidence_cited": [
+          "Numerous proven hoaxes (Fox Sisters, Amityville, etc.)",
+          "Financial motives (book deals, media attention)",
+          "Agents caught in trickery",
+          "Phenomena cease under controlled observation",
+          "Simple tricks can create impressive effects",
+          "Human capacity for deception"
+        ],
+        "known_techniques": [
+          "Throwing objects when unobserved",
+          "Fishing line to move items",
+          "Hidden accomplices",
+          "Ventriloquism for voice phenomena",
+          "Pre-staging events",
+          "Taking advantage of investigation equipment limitations"
+        ],
+        "examples": [
+          "Fox Sisters admitted fraud in 1888",
+          "Amityville proven fabrication",
+          "Enfield children caught faking some phenomena",
+          "Many cases collapse under scrutiny"
+        ],
+        "criticisms": [
+          "Doesn't explain all cases satisfactorily",
+          "Some phenomena witnessed by credible observers under conditions preventing trickery",
+          "Assumes all cases fraudulent without individual examination",
+          "Some agents appear genuinely distressed rather than deceptive"
+        ]
+      },
+      {
+        "name": "Misinterpretation of Normal Events",
+        "description": "Natural phenomena (house settling, animals, plumbing issues, electrical problems, etc.) are misinterpreted as paranormal, especially in context of belief or expectation.",
+        "proponents": ["Skeptical investigators", "Scientists"],
+        "evidence_cited": [
+          "Houses naturally make sounds (settling, pipes, etc.)",
+          "Electrical issues common in older buildings",
+          "Confirmation bias amplifies unusual events",
+          "Memory distortion over time",
+          "Psychological predisposition to find patterns"
+        ],
+        "natural_explanations": [
+          "House settling causes creaking, movement",
+          "Plumbing creates knocking sounds",
+          "Electrical surges cause equipment malfunction",
+          "Animals (rodents, birds) in walls",
+          "Wind, temperature changes",
+          "Underground streams, soil movement",
+          "Infrasound causing unease and hallucinations"
+        ],
+        "criticisms": [
+          "Doesn't account for dramatic, witnessed phenomena",
+          "Doesn't explain agent-specific pattern",
+          "Some cases professionally investigated ruling out normal causes"
+        ]
+      },
+      {
+        "name": "Investigator Fraud/Bias",
+        "description": "In some cases, paranormal investigators themselves fabricate or exaggerate evidence due to belief, desire for fame, or financial incentives.",
+        "proponents": ["Skeptics", "Critical researchers"],
+        "evidence_cited": [
+          "Harry Price and Borley Rectory fabrications",
+          "Ed and Lorraine Warren's credibility issues",
+          "Financial incentives for investigators",
+          "Confirmation bias in investigations",
+          "Lack of proper controls in investigations"
+        ],
+        "examples": [
+          "Harry Price's methods at Borley questioned",
+          "Various investigators caught exaggerating",
+          "Book deals and media careers as motives"
+        ]
+      }
+    ]
+  },
+
+  "research": {
+    "researchers": [
+      {
+        "name": "William G. Roll",
+        "affiliation": "Psychical Research Foundation / State University of West Georgia",
+        "contribution": "Developed RSPK (Recurrent Spontaneous Psychokinesis) theory; investigated numerous poltergeist cases; demonstrated correlation between poltergeist agent and psychological stress; authored 'The Poltergeist' (1972)",
+        "period": "1960s-2012",
+        "significance": "Most influential poltergeist researcher; established scientific framework for understanding phenomena"
+      },
+      {
+        "name": "Hans Bender",
+        "affiliation": "Institute for Border Areas of Psychology, Freiburg University",
+        "contribution": "Investigated Rosenheim Poltergeist and other German cases; brought scientific rigor to investigation; collaborated with physicists",
+        "period": "1950s-1991",
+        "significance": "Leading European parapsychological researcher"
+      },
+      {
+        "name": "Maurice Grosse",
+        "affiliation": "Society for Psychical Research",
+        "contribution": "Lead investigator of Enfield Poltergeist; documented over 1,500 incidents; collected extensive audio and visual evidence",
+        "period": "1977-2006",
+        "significance": "Most thorough documentation of single poltergeist case"
+      },
+      {
+        "name": "Guy Lyon Playfair",
+        "affiliation": "Society for Psychical Research",
+        "contribution": "Co-investigator of Enfield Poltergeist; authored 'This House Is Haunted' (1980); researcher of Brazilian poltergeist cases",
+        "period": "1970s-2018",
+        "significance": "Documented Enfield case and cross-cultural poltergeist phenomena"
+      },
+      {
+        "name": "Alan Gauld",
+        "affiliation": "Society for Psychical Research / University of Nottingham",
+        "contribution": "Comprehensive review of poltergeist history; co-authored 'Poltergeists' (1979) with A.D. Cornell; analytical approach to case evaluation",
+        "period": "1960s-present",
+        "significance": "Scholarly analysis and historical compilation"
+      },
+      {
+        "name": "A.D. Cornell",
+        "affiliation": "Society for Psychical Research",
+        "contribution": "Co-authored 'Poltergeists' (1979); developed classification systems for phenomena; investigated numerous UK cases",
+        "period": "1950s-2010",
+        "significance": "Systematic categorization of phenomena types"
+      },
+      {
+        "name": "Michael Persinger",
+        "affiliation": "Laurentian University",
+        "contribution": "Proposed neurological explanations for poltergeist agents; researched electromagnetic effects on temporal lobe; connected geomagnetic activity to cases",
+        "period": "1970s-2018",
+        "significance": "Neuropsychological approach to RSPK"
+      },
+      {
+        "name": "Joe Nickell",
+        "affiliation": "Committee for Skeptical Inquiry",
+        "contribution": "Skeptical investigation of numerous cases; exposed frauds; authored critical analyses; investigative methodology",
+        "period": "1980s-present",
+        "significance": "Leading skeptical researcher; fraud detection"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Society for Psychical Research (SPR)",
+        "url": "https://www.spr.ac.uk",
+        "founded": 1882,
+        "focus": "Scientific investigation of paranormal phenomena including poltergeists; maintains extensive case files"
+      },
+      {
+        "name": "Parapsychological Association",
+        "url": "https://www.parapsych.org",
+        "focus": "Professional organization for parapsychology; RSPK research; affiliated with AAAS"
+      },
+      {
+        "name": "Rhine Research Center",
+        "url": "https://www.rhine.org",
+        "focus": "Parapsychological research including psychokinesis studies relevant to poltergeist theory"
+      },
+      {
+        "name": "Committee for Skeptical Inquiry (CSI)",
+        "url": "https://www.skepticalinquirer.org",
+        "focus": "Skeptical investigation and critical analysis of paranormal claims including poltergeists"
+      }
+    ],
+    "key_findings": [
+      "Approximately 90% of poltergeist cases involve an identifiable agent/focus person",
+      "Peak age for agents is 12-15 years (puberty/adolescence)",
+      "Strong correlation with psychological stress, family conflict, and emotional turmoil",
+      "Female agents slightly more common than male, though both occur",
+      "Cases typically last 2-6 months before ceasing spontaneously",
+      "Phenomena often follow agent to new locations",
+      "Activity usually ceases when agent matures or stress resolves",
+      "Most cases have mixture of genuine puzzling phenomena and proven trickery",
+      "Significant number of proven hoaxes and frauds",
+      "No repeatable laboratory demonstration of poltergeist phenomena",
+      "No scientifically verified evidence of paranormal causation"
+    ],
+    "ongoing_studies": "Contemporary research focuses on psychological profiling of agents, neurological factors (temporal lobe activity), environmental factors (EMF, infrasound), and case documentation with modern technology. Skeptical research emphasizes fraud detection and natural explanations."
+  },
+
+  "investigation": {
+    "warning": "Poltergeist investigation can be dangerous due to potential for physical harm (thrown objects, fires). Psychological well-being of focal person (often a child) must be prioritized. Many cases involve fraud, and investigators should maintain critical perspective.",
+    "identification": {
+      "description": "Determining if case is genuine poltergeist phenomenon vs. normal causes or fraud",
+      "criteria": [
+        "Recurrent physical phenomena (object movement, sounds)",
+        "Identifiable focal person (usually adolescent)",
+        "Correlation between phenomena and focal person's presence",
+        "Escalation pattern over time",
+        "Psychological stress in focal person or family",
+        "Rule out normal explanations (plumbing, animals, structural issues)",
+        "Rule out fraud through observation and controls"
+      ]
+    },
+    "investigation_methods": [
+      {
+        "method": "Continuous Observation",
+        "description": "Maintain presence and observe phenomena directly; note correlation with agent's location and state",
+        "equipment": ["Notebooks", "Cameras", "Video cameras"],
+        "purpose": "Document phenomena and determine if trickery possible"
+      },
+      {
+        "method": "Environmental Monitoring",
+        "description": "Rule out normal environmental causes",
+        "equipment": ["EMF meters", "Thermal cameras", "Structural engineers", "Electricians", "Plumbers"],
+        "purpose": "Eliminate natural explanations"
+      },
+      {
+        "method": "Audio/Video Documentation",
+        "description": "Record phenomena as they occur",
+        "equipment": ["Video cameras (multiple angles)", "Audio recorders", "Time-synchronized equipment"],
+        "purpose": "Provide evidence and detect fraud"
+      },
+      {
+        "method": "Controlled Experiments",
+        "description": "Test if phenomena occur under controlled conditions preventing trickery",
+        "equipment": ["Sealed rooms", "Continuous monitoring", "Trigger objects"],
+        "purpose": "Determine if phenomena genuine or hoaxed"
+      },
+      {
+        "method": "Psychological Assessment",
+        "description": "Evaluate focal person's psychological state, family dynamics",
+        "equipment": ["Psychological testing", "Interviews", "Family assessment"],
+        "purpose": "Understand agent's stress factors and mental state; identify RSPK correlation"
+      },
+      {
+        "method": "Witness Interviews",
+        "description": "Document accounts from all witnesses separately",
+        "equipment": ["Interview protocols", "Recording devices"],
+        "purpose": "Establish consistency and credibility"
+      }
+    ],
+    "ethical_considerations": [
+      "Protect focal person (often minor) from exploitation",
+      "Avoid causing additional psychological harm",
+      "Maintain family privacy",
+      "Don't assume fraud without evidence",
+      "Don't validate delusions if mental illness present",
+      "Involve mental health professionals when appropriate",
+      "Avoid media sensationalism",
+      "Obtain informed consent"
+    ],
+    "red_flags_for_fraud": [
+      "Phenomena only occur when focal person alone",
+      "Elaborate phenomena impossible without preparation",
+      "Agent caught in contradictions",
+      "Financial motives present",
+      "Agent has history of attention-seeking",
+      "Phenomena conveniently avoid cameras",
+      "Overly dramatic or Hollywood-like events",
+      "Agent resists controlled testing",
+      "Phenomena match popular media depictions exactly"
+    ]
+  },
+
+  "cultural": {
+    "folklore": {
+      "traditions": [
+        "German folklore (poltergeist origin)",
+        "English folklore (brownies, boggarts - mischievous house spirits)",
+        "Japanese yokai (tsukumogami - object spirits)",
+        "Irish mythology (troublesome fairies)",
+        "Slavic domovoi (house spirits)"
+      ],
+      "beliefs": "Poltergeist-like phenomena attributed to various entities across cultures: mischievous spirits, angered ghosts, demons, fairies, or nature spirits. Often seen as punishment for wrongdoing, disturbance of burial sites, or result of curse. Protection rituals common.",
+      "cross_cultural_patterns": "Similar phenomena reported across unrelated cultures suggest either genuine phenomenon or universal psychological/social patterns"
+    },
+    "religious_perspectives": [
+      {
+        "tradition": "Christianity",
+        "view": "Often interpreted as demonic activity; exorcism may be performed; some traditions recognize distinction from possession",
+        "practitioners": ["Catholic exorcists", "Protestant deliverance ministers"]
+      },
+      {
+        "tradition": "Islam",
+        "view": "May be attributed to jinn (spiritual beings); Islamic exorcism (ruqya) may be employed",
+        "practitioners": ["Islamic scholars", "Ruqya practitioners"]
+      },
+      {
+        "tradition": "Spiritism/Spiritualism",
+        "view": "Lower-level or troubled spirits; spiritual intervention and prayer recommended",
+        "practitioners": ["Mediums", "Spiritual healers"]
+      },
+      {
+        "tradition": "Secular/Psychological",
+        "view": "Psychological phenomenon requiring therapy rather than religious intervention",
+        "practitioners": ["Psychologists", "Family therapists"]
+      }
+    ],
+    "popular_culture": {
+      "literature": [
+        "Stephen King - 'Carrie' (1974) - telekinetic girl, RSPK themes",
+        "William Peter Blatty - 'The Exorcist' (1971) - demonic interpretation",
+        "Richard Matheson - 'Hell House' (1971) - includes poltergeist elements",
+        "Playfair, G.L. - 'This House Is Haunted' (1980) - non-fiction Enfield case"
+      ],
+      "film_tv": [
+        "'Poltergeist' (1982) - classic horror film (fictional)",
+        "'The Enfield Haunting' (2015) - miniseries based on Enfield case",
+        "'The Conjuring 2' (2016) - dramatized Enfield case",
+        "'The Entity' (1982) - based on alleged California case",
+        "'A Haunting' TV series - documentary recreation of cases",
+        "Numerous other horror films using poltergeist elements"
+      ],
+      "impact": "Poltergeist phenomenon deeply embedded in horror genre; term widely recognized in popular culture; typical depiction involves demonic entities and extreme violence, diverging from actual case characteristics"
+    }
+  },
+
+  "sources": [
+    {
+      "id": "roll-1972",
+      "type": "book",
+      "title": "The Poltergeist",
+      "authors": ["William G. Roll"],
+      "publication": "Scarecrow Press",
+      "date": "1972",
+      "isbn": "978-0810804784",
+      "significance": "Foundational text on RSPK theory"
+    },
+    {
+      "id": "gauld-cornell-1979",
+      "type": "book",
+      "title": "Poltergeists",
+      "authors": ["Alan Gauld", "A.D. Cornell"],
+      "publication": "Routledge & Kegan Paul",
+      "date": "1979",
+      "isbn": "978-0710000378",
+      "significance": "Comprehensive scholarly analysis of poltergeist cases"
+    },
+    {
+      "id": "playfair-1980",
+      "type": "book",
+      "title": "This House Is Haunted: The True Story of the Enfield Poltergeist",
+      "authors": ["Guy Lyon Playfair"],
+      "publication": "Souvenir Press",
+      "date": "1980",
+      "isbn": "978-0285626751",
+      "significance": "Primary account of Enfield case by investigator"
+    },
+    {
+      "id": "wilson-1982",
+      "type": "book",
+      "title": "Poltergeist! A Study in Destructive Haunting",
+      "authors": ["Colin Wilson"],
+      "publication": "New English Library",
+      "date": "1982",
+      "isbn": "978-0450042119",
+      "significance": "Popular overview of famous cases"
+    },
+    {
+      "id": "bender-1969",
+      "type": "article",
+      "title": "Modern Poltergeist Research",
+      "authors": ["Hans Bender"],
+      "publication": "Proceedings of the Parapsychological Association",
+      "date": "1969",
+      "significance": "Scientific investigation of Rosenheim case"
+    },
+    {
+      "id": "roll-1977",
+      "type": "article",
+      "title": "Poltergeists",
+      "authors": ["William G. Roll"],
+      "publication": "Handbook of Parapsychology",
+      "date": "1977",
+      "significance": "Academic overview of RSPK research"
+    },
+    {
+      "id": "nickell-2012",
+      "type": "book",
+      "title": "The Science of Ghosts: Searching for Spirits of the Dead",
+      "authors": ["Joe Nickell"],
+      "publication": "Prometheus Books",
+      "date": "2012",
+      "isbn": "978-1616145972",
+      "significance": "Skeptical analysis including poltergeist cases"
+    },
+    {
+      "id": "houran-lange-2001",
+      "type": "book",
+      "title": "Hauntings and Poltergeists: Multidisciplinary Perspectives",
+      "authors": ["James Houran", "Rense Lange (editors)"],
+      "publication": "McFarland",
+      "date": "2001",
+      "isbn": "978-0786409358",
+      "significance": "Academic collection of perspectives on poltergeist phenomena"
+    }
+  ]
+}
